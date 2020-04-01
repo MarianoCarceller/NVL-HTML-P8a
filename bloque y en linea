@@ -1,0 +1,21 @@
+<!DOCUTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Practica de bloque y en linea.</title>
+    </head>
+    <body>
+      <p>ppppppppppppp</p>
+      <h1>h1h1h1h1h1</h1>
+      <li>lilililililili</li>
+      <a>aaa<main>mainmain</main>aaaaaa</a>
+      <em>ememememememe</em>
+      <i>iiiiiiiiiiiiiii</i>
+      <ol>olololololololololololo</ol>
+      <div>divdivdivdivdivdvi</div>
+      <ul>ululululululu</ul>
+      <q>qqqqqqq</q>
+      <b>bbbbbbbbbbbbbbbbbb</b>
+      <tt>ttttttttttttt</tt>
+    </body>
+  </html>
